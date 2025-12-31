@@ -11,6 +11,11 @@ A warm orange-based color scheme for Neovim, inspired by warm autumn colors and 
 - **Git integration** with Git Signs support
 - **Terminal colors** included
 
+## Screenshots
+<img width="3454" height="1882" alt="image" src="https://github.com/user-attachments/assets/c0b12b47-ac15-4131-aee0-70aadb79e490" />
+<img width="3438" height="1880" alt="image" src="https://github.com/user-attachments/assets/a2e314a6-284d-4c16-bed3-f9979bb9b2ae" />
+
+
 ## Installation
 
 ### Using [lazy.nvim](https://github.com/folke/lazy.nvim)

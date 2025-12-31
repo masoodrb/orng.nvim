@@ -17,7 +17,7 @@ A warm orange-based color scheme for Neovim, inspired by warm autumn colors and 
 
 ```lua
 {
-  "your-username/orng.nvim",
+  "masoodrb/orng.nvim",
   priority = 1000, -- Make sure to load this before all the other start plugins
   config = function()
     require("orng").setup({
@@ -34,7 +34,7 @@ A warm orange-based color scheme for Neovim, inspired by warm autumn colors and 
 
 ```lua
 use {
-  'your-username/orng.nvim',
+  'masoodrb/orng.nvim',
   config = function()
     require('orng').setup()
     vim.cmd('colorscheme orng')
@@ -45,7 +45,7 @@ use {
 ### Using [vim-plug](https://github.com/junegunn/vim-plug)
 
 ```vim
-Plug 'your-username/orng.nvim'
+Plug 'masoodrb/orng.nvim'
 
 " In your init.vim or init.lua:
 lua << EOF
